@@ -1,0 +1,20 @@
+Upload your new program to GitHub
+Open PowerShell in your main C++ codes folder:
+cd "D:\Varun\College\Placements\C++ codes"
+
+
+Now execute these three commands:
+
+A. Stage your changes
+git add .
+
+
+B. Commit your changes
+git commit -m "Add two sum program"
+
+
+C. Push to GitHub
+git push
+
+
+Your new program will now appear in your GitHub repository.
